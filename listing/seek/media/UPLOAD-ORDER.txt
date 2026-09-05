@@ -1,0 +1,15 @@
+SEEK & COLOR — Photo & Video upload order
+
+VIDEOS
+1. video-1-pico-seeks.mp4        6s  Pico + magnifying glass (hook)
+2. video-2-find-and-color.mp4   10s  find, then color (product)
+
+PHOTOS (first = search thumbnail)
+1. 01-hero-seek.jpg
+2. 02-book-mockup.jpg
+3. 04-hands-seek.jpg
+4. 03-flatlay.jpg
+5. 06-whats-inside.jpg
+6. 07-how-it-works.jpg
+7. 05-colored.jpg
+8. 08-cover.jpg
