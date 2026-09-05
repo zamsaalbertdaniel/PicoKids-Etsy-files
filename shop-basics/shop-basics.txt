@@ -1,0 +1,92 @@
+PICOKIDS — ETSY SHOP BASICS
+Paste these into Shop Manager → Info & Appearance → Shop basics.
+
+================================================
+TAGLINE  (42 / 55 characters)
+================================================
+Printable coloring books for kids ages 4-8
+
+Backups (if you want a different angle):
+Bold & easy coloring books for little hands
+Cute forest coloring pages for ages 4-8
+
+================================================
+LOGO
+================================================
+Upload: logo-500.png  (also logo-500.jpg if Etsy prefers JPEG)
+Must be at least 500×500. This file is exactly 500×500.
+Use the fox face only — text in a shop icon becomes unreadable when Etsy shrinks it.
+
+================================================
+ABOUT YOUR SHOP  (723 / 5000 characters)
+================================================
+PicoKids makes original printable coloring books for children ages 4–8.
+
+Our first book, Pico’s Forest Friends, follows a little fox cub through a quiet wood — treehouses, picnics, puddles, and a birthday cake. Thirty pages. Thick lines. One big scene per page. Made for small hands, crayons, and a slow afternoon.
+
+Every download includes US Letter and A4, so families can print at home on the paper they already have. No licensed characters. No tiny corners that make a four-year-old give up.
+
+PicoKids is a small independent shop. We care about pages that feel like a real book, not a pile of random animals. If a child can recognize Pico from the first page to the last, we did our job.
+
+Thank you for printing with us.
+
+================================================
+FEATURED VIDEO
+================================================
+Upload: featured-video.mp4
+6 seconds. Pico in the forest. No text on screen.
+Format MP4, well under Etsy’s 300 MB limit.
+
+================================================
+FEATURED PHOTOS  (up to 5 — Etsy crops to 760×468)
+================================================
+Upload in this order, with these captions:
+
+1. photo-1-meet-pico.jpg
+   Caption: Meet Pico, our little forest fox
+
+2. photo-2-print-at-home.jpg
+   Caption: Print at home — crayons, pencils, quiet time
+
+3. photo-3-hello-pico.jpg
+   Caption: Thick, easy lines made for ages 4–8
+
+4. photo-4-treehouse.jpg
+   Caption: One big scene on every page
+
+5. photo-5-picnic.jpg
+   Caption: Original pages. No licensed characters.
+
+================================================
+LINKS
+================================================
+Leave blank for now.
+
+Do not invent an Instagram or website you do not have.
+When you are ready, the first link worth adding is Pinterest
+(printables sell there). Instagram second.
+
+================================================
+LISTING ORDER
+================================================
+Keep: Most recent
+
+You have one book. Most recent is correct.
+Switch to Custom later, when a second title exists
+and you want the bestseller on top.
+
+================================================
+SOLD LISTINGS
+================================================
+Keep: Buyers can view
+
+Empty sold history is normal on day one.
+When the first orders land, other parents seeing
+“sold” helps the next sale.
+
+================================================
+BONUS (not in Shop basics, but use them)
+================================================
+banner-3360x840.jpg  — Shop cover / big banner (Info & Appearance → Cover photo)
+receipt-banner-760x100.jpg — optional, on order receipts
+logo-1000.png — keep this master; re-export if Etsy asks for a larger file
