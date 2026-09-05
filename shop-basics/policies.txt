@@ -1,0 +1,147 @@
+PICOKIDS — ETSY POLICY SETTINGS
+Shop Manager → Settings → Policy settings
+
+Tabs: Returns & exchanges · Cancellations · Privacy · Fixed
+
+This is a shop template for a digital-only coloring-book shop.
+It is not legal advice.
+
+================================================
+FIXED  (do not edit — Etsy writes these)
+================================================
+Open the Fixed tab and leave it.
+
+Etsy already sets, shop-wide:
+• Estimated delivery dates
+• Customs and import taxes
+• Instant downloads for digital items
+
+You cannot change Fixed policies. For PicoKids (PDF only), Instant downloads is the one that matters: the buyer gets the file as soon as payment clears. No parcel.
+
+================================================
+RETURNS & EXCHANGES
+================================================
+For DIGITAL listings Etsy does not let you attach a return policy.
+Do not create a physical-goods return policy and apply it to the coloring books.
+
+If a buyer messages you:
+• File won’t open / wrong PDF → send the file again, or refund if you cannot.
+• “I printed it, I changed my mind” → no refund. The file was delivered.
+
+================================================
+CANCELLATIONS
+================================================
+If the tab asks whether you accept cancellations:
+
+Accept cancellations?  NO
+
+Reason (if there is a box, paste):
+
+Digital files are delivered instantly after payment. Once the download is available, the order cannot be cancelled or refunded, except where the file is damaged or incomplete. If that happens, message PicoKids and we will replace the file.
+
+================================================
+PRIVACY POLICY
+Click Create a policy → paste everything below → Publish
+================================================
+
+PicoKids Privacy Policy
+
+Last updated: 5 September 2026
+
+PicoKids is a small independent shop on Etsy. We sell original printable coloring books as digital PDF downloads. This policy explains what information we see, what we do with it, and how you can ask us about it.
+
+1. Who is responsible
+
+The shop “PicoKids” on Etsy is the seller. We are based in Romania (European Union).
+
+Etsy, Inc. runs the marketplace, your Etsy account, checkout, and payments. Etsy’s own privacy policy covers how Etsy uses that data. This page only covers what PicoKids does as the seller.
+
+Contact us through Etsy Messages to the PicoKids shop. That is the right place for privacy questions about an order.
+
+2. What we collect
+
+We do not run our own website checkout and we do not ask children for information.
+
+When you buy from PicoKids on Etsy, we can see the order information Etsy shares with sellers, which typically includes:
+
+• Your Etsy account name
+• The email address Etsy uses for the order
+• The item you bought, price, date, and order number
+• Messages you send us on Etsy
+• Download / delivery status for the digital file
+
+We do not collect payment card numbers. Etsy and its payment partners process payments.
+
+We do not create extra mailing lists, we do not sell emails, and we do not track you off Etsy.
+
+3. Children
+
+Our coloring books are made for children ages 4–8, but the customer is the parent, caregiver, or teacher who buys the file.
+
+We do not knowingly collect personal information from children. Please do not send us a child’s full name, school, address, or photos. If a “this book belongs to” page is filled in after you print, that copy stays in your home — we never see it.
+
+4. How we use order information
+
+We use it only to:
+
+• Deliver the PDF (Etsy instant download)
+• Answer your messages
+• Fix a broken file or a missing download
+• Meet bookkeeping and tax rules that apply to us in Romania / the EU
+• Handle a dispute if one is opened on Etsy
+
+Legal bases under the GDPR: performing the contract (your order), legal obligation (invoices and tax), and legitimate interests (customer support and fraud prevention).
+
+5. How long we keep it
+
+Order records stay as long as Etsy keeps them available to sellers and as long as tax law in Romania requires (generally several years for invoices). We do not keep a separate marketing database.
+
+6. Sharing
+
+We do not sell or rent your information.
+
+It is processed by Etsy as the platform. If the law requires it, or if we must defend a legal claim, we may disclose what we have. We do not send your data to advertisers.
+
+7. Where data is processed
+
+Etsy is a global platform. Your account data may be processed in the United States and other countries under Etsy’s terms. As an EU seller we still handle shop messages and orders under the GDPR.
+
+8. Your rights (EEA / UK and similar laws)
+
+You can ask us, via Etsy Messages, to:
+
+• Access the order information we have about you
+• Correct it
+• Delete it, where the law allows (we may keep invoices if tax rules require)
+• Restrict or object to certain uses
+• Receive a copy of what we hold
+
+You can also manage your Etsy account privacy in Etsy settings, and download your Etsy data from Etsy.
+
+If you are in the EU/EEA you may complain to your local data protection authority. In Romania that is the ANSPDCP (dataprotection.ro).
+
+9. Cookies
+
+PicoKids does not set its own cookies. Etsy.com uses cookies as described in Etsy’s policies.
+
+10. Files you download
+
+The PDF is a coloring book for personal use at home, in class, or as a gift. You may print it as many times as you like for your family or classroom.
+
+You may not resell the PDF, share the file publicly, upload it to other shops, or claim the drawings as your own. The characters (including Pico) and the pages remain PicoKids original artwork.
+
+11. Changes
+
+If this policy changes in a real way, we will update the date at the top and publish the new version here.
+
+Thank you for printing with PicoKids.
+
+================================================
+OPTIONAL — paste into each listing, at the end of the description
+(license, so buyers see it before they pay)
+================================================
+
+LICENSE
+Personal and classroom use. Print as many copies as you need at home or school.
+The PDF itself may not be resold, given away as a file, or uploaded to another shop.
+Pico and these pages are original PicoKids artwork.
